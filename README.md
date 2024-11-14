@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Finance Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sudarshan-khandelwal-hub](https://github.com/Sudarshan-khandelwal-hub)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/Sudarshan-khandelwal-hub)
 
 - 💬 Ask me about **Python, Machine Learning, Deep Learning, Statistics, Reinforcement Learning**
 
